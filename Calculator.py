@@ -1,4 +1,10 @@
+'''Calculator Windows
+'''
+
+
 def calculadora():
+    '''Here it shows the user the choices. Then he asks for your choice
+    '''
     print("Selecione a operação: ")
     print("1. Adição")
     print("2. Subtração")
